@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <conio.h>
+void main ()
+{
+int no;
+clrscr ();
+printf("\n Enter value of no=");
+scanf("%d",&no);
