@@ -1,2 +1,2 @@
 # C-SEM01
- C programs from book BCA-SEM01
+ C programs BCA-SEM01
